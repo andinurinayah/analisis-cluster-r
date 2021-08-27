@@ -1,6 +1,7 @@
 # Definisi Analisis Cluster
   Analisis cluster atau analisis kelompok merupakan teknik analisa data yang bertujuan untuk mengelompokan individu atau objek ke dalam beberapa kelompok yang memiliki sifat berbeda antar kelompok, sehingga individu atau objek yang terletak di dalam satu kelompok akan mempunyai sifat relatif homogen
-#Proses Analisis Cluster 
+
+# Proses Analisis Cluster 
   1. Menetapkan ukuran jarak antar data, mengukur kesamaan antara objek. Sesuai prinsip dasar cluster yang mengeelompokan objek yang mempunyai kemiripan, maka proses pertama adalah mengukur seberapa jauh ada kesamaan objek. Pengukuran jarak yang populer adalah metode Euclidean distance. Pada dasarnya, cara ini akan memasukan sebuah data ke dalam cluster tertentu dengan mengukur jarak data tersebut ke pusat cluster. 
   2. Melakukan proses standarisasi data jika diperlukan. 
   3. Melakukan pengklasteran, proses inti clustering adalah pengelompokan data, yang biasa dilakukan dengan dua metode yaitu: 
